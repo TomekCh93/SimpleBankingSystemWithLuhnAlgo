@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Simple Banking System (Java)/task/build/
+/Simple Banking System (Java)/task/out/
+/Simple Banking System (Java)/task/out/production/classes/
+/Topics/Random/Gaussian random numbers/out/
+/Topics/Random/Gaussian random numbers/out/production/classes/
